@@ -2,8 +2,8 @@
 
 
 --------------------------------------------------------------------------------------------
-<Welcome to Starcraft Reverse Series>
-        Created by: Happy115
+Welcome to Starcraft Reverse Series
+       Created by: Happy115
 --------------------------------------------------------------------------------------------
 
 Special Thanks: 
