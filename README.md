@@ -1,5 +1,5 @@
-# Starcraft-Original-Reverse-Campaign
-# Starcraft-Original-Reverse-Campaign
+# Starcraft Original Reverse Campaign
+
 
 --------------------------------------------------------------------------------------------
 <Welcome to Starcraft Reverse Series>
