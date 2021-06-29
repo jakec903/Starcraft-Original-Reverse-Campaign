@@ -20,7 +20,7 @@ I only know the Windows 10 system and the installation will be based off this.
 
 Unzip contents in the following location to play:
 Note: Replace "UserName" with contents of the user
-C:\Users\"UserName"\Documents\Starcraft\Maps
+C:\Users\'UserName'\Documents\Starcraft\Maps
 
 If you are still having issues, the contents may look like this from File Explorer
 
