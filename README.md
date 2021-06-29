@@ -93,3 +93,10 @@ Patch Notes
 --------------------------------------------------------------------------------------------
 Version 1.0 BETA
 6/28/2021 - Release
+
+6/29/2021
+- Removed "Area Town" AI scripts in Missions 1, 2, 3, 5, 6, 7, and 8 in the Terran Campaign as to prevent the AI from creating an additional Command Center.
+- Reduced Difficulty settings of 1 or more Terran AI in missions 2, 5, 6, 7, 8, and 9. (1 Terran AI is still set to insane while the others will be at difficult)
+- Changed Geyser from bring controlled by Player 1 to Player 12 (Neutral) in Mission 1.
+- Changed AI script as to hopefully prevent ally AI in Mission 5 from building a command center in your base.
+- Changed AI script execution location from your base to their base in Mission 6 (hopefully prevents AI drones from mining at your base).
