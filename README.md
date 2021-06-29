@@ -34,8 +34,8 @@ maps use assets from Starcraft Broodwar, thus it is suggested to run on game on 
 expansion version.
 
 File Size: 115 MB
+--------------------------------------------------------------------------------------------
 
--------------Basic Information and Changes--------------------------------------------------
 
 About the Maps:
 - These set of maps consist of the Original Starcraft Campaign. Some use assets from Broodwar
@@ -89,6 +89,7 @@ Other:
 
 - I will continue to create the "Broodwar Reversed Campaign"
 
--------------Patch Notes--------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+Patch Notes
 Version 1.0 BETA
 6/28/2021 - Release
