@@ -12,6 +12,7 @@ modified them into single player and modified the triggers from there.
 
 MindHawk - He is working and came up with the idea of the Starcraft II Wings of Liberty
 Reverse Campaign.  This series is inspired from it.
+
 Basic Installation Info
 --------------------------------------------------------------------------------------------
 
