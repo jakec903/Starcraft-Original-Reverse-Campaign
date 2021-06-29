@@ -4,19 +4,17 @@
 --------------------------------------------------------------------------------------------
 Welcome to Starcraft Reverse Series
        Created by: Happy115
+Special Thanks
 --------------------------------------------------------------------------------------------
-
-Special Thanks: 
 ViC Brigade - He is the developer of the Coop Campaign. Due to difficulty of finding the
 campaign maps and starting features, I used the starting template of the Coop maps and
 modified them into single player and modified the triggers from there.
 
 MindHawk - He is working and came up with the idea of the Starcraft II Wings of Liberty
 Reverse Campaign.  This series is inspired from it.
-
+Basic Installation Info
 --------------------------------------------------------------------------------------------
 
-Installation Info:
 I only know the Windows 10 system and the installation will be based off this.
 
 Unzip contents in the following location to play:
@@ -27,17 +25,18 @@ If you are still having issues, the contents may look like this from File Explor
 
 > ThisPC > Documents > Starcraft > Maps
 
---------------------------------------------------------------------------------------------
 Basic Info:
+--------------------------------------------------------------------------------------------
+
 This is run on Starcraft Broodwar.  While most maps will work on Original Starcraft, some
 maps use assets from Starcraft Broodwar, thus it is suggested to run on game on the
 expansion version.
 
 File Size: 115 MB
---------------------------------------------------------------------------------------------
-
 
 About the Maps:
+--------------------------------------------------------------------------------------------
+
 - These set of maps consist of the Original Starcraft Campaign. Some use assets from Broodwar
   such as Dark Templar in the efforts of the AI being able to consistently kill Cerebrates.
 
@@ -89,7 +88,7 @@ Other:
 
 - I will continue to create the "Broodwar Reversed Campaign"
 
---------------------------------------------------------------------------------------------
 Patch Notes
+--------------------------------------------------------------------------------------------
 Version 1.0 BETA
 6/28/2021 - Release
