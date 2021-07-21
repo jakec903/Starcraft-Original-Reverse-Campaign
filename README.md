@@ -86,6 +86,9 @@ Other:
 
 - If you wish to report a bug or have questions, please message me at itsthatguy115@gmail.com
   I will do my best to try to check occasionally and update when needed
+  
+- I try to check forums on StarEdit often. If you want to download each map individually or 
+  give some feedback, you can here: http://www.staredit.net/topic/18274/#1
 
 - I will continue to create the "Broodwar Reversed Campaign"
 
@@ -95,25 +98,39 @@ Version 1.0 BETA
 6/28/2021 - Release
 
 6/29/2021
-- Removed "Area Town" AI scripts in Missions 1, 2, 3, 5, 6, 7, and 8 in the Terran Campaign as to prevent the AI from creating an additional Command Center.
-- Reduced Difficulty settings of 1 or more Terran AI in missions 2, 5, 6, 7, 8, and 9. (1 Terran AI is still set to insane while the others will be at difficult)
+- Removed "Area Town" AI scripts in Missions 1, 2, 3, 5, 6, 7, and 8 in the Terran Campaign as 
+  to prevent the AI from creating an additional Command Center.
+- Reduced Difficulty settings of 1 or more Terran AI in missions 2, 5, 6, 7, 8, and 9. (1 
+  Terran AI is still set to insane while the others will be at difficult)
 - Changed Geyser from bring controlled by Player 1 to Player 12 (Neutral) in Mission 1.
-- Changed AI script as to hopefully prevent ally AI in Mission 5 from building a command center in your base.
-- Changed AI script execution location from your base to their base in Mission 6 (hopefully prevents AI drones from mining at your base).
+- Changed AI script as to hopefully prevent ally AI in Mission 5 from building a command center
+  in your base.
+- Changed AI script execution location from your base to their base in Mission 6 (hopefully 
+  prevents AI drones from mining at your base).
 7/17/2021 - v1.02
-- Added Resources to Player 3 AI in Terran Mission 6. This should allow Duke's forces to build units now.
+- Added Resources to Player 3 AI in Terran Mission 6. This should allow Duke's forces to build 
+  units now.
 7/20/2021 - v1.10
-- Changed starting structure (Command Center / Nexus / Hatchery) location in various missions to be located closer to minerals and gas geysers for more efficient mining.
+- Changed starting structure (Command Center / Nexus / Hatchery) location in various missions to 
+  be located closer to minerals and gas geysers for more efficient mining.
 - Added Drones, Probes, and SCVs in various missions as well.
 - Added or deleted very minor cluster of units in various missions.
-- Terran Mission 9: Zerg starting upgrades are now 2/2 down from 3/3. Their initial attack wave should also be slightly smaller.
-- Terran Mission 10: Terran AI now has less starting production facilities. Their defensive structures are also now located inside their base (versus outside of it).
+- Terran Mission 9: Zerg starting upgrades are now 2/2 down from 3/3. Their initial attack wave 
+  should also be slightly smaller.
+- Terran Mission 10: Terran AI now has less starting production facilities. Their defensive 
+  structures are also now located inside their base (versus outside of it).
 - Zerg Mission 6: Reduced difficulty of 1 of the Zerg AI from Insane to Difficult.
-- Zerg Mission 8: Increased Red Zerg AI's starting Tech levels. Decreased Purple Zerg AI's starting Hatchery count. Removed a AI town script for Purple Zerg.
+- Zerg Mission 8: Increased Red Zerg AI's starting Tech levels. Decreased Purple Zerg AI's starting 
+  Hatchery count. Removed a AI town script for Purple Zerg.
 - Zerg Mission 9 and 10: Reduced difficulty of 1 of the Zerg AIs from Insane to Difficult.
 - Protoss Mission 2 and 3: Player now starts with 1 more hatchery.
-- Protoss Mission 4: Expanded low ground location south of starting Base. It is now also a natural that can be expanded to.
-- Protoss Mission 5: Tassadar's stats have been increased making him harder to kill and dealing slightly more damage.
+- Protoss Mission 4: Expanded low ground location south of starting Base. It is now also a natural
+   that can be expanded to.
+- Protoss Mission 5: Tassadar's stats have been increased making him harder to kill and dealing
+  slightly more damage.
 - Protoss Mission 8: Added an expansion east of Main mining base on the low ground.
-- Protoss Mission 9: Both brown and white start with an extra hatchery. Red Zerg has more sunken colonies added in the top middle of the map.
-- Protoss Mission 10: Modified terrain near starting mineral clusters in Player's Main base for more freedom to add hatcheries near the mineral clusters for maximum mining. Also added a few starting units for Brown Terran and Yellow Protoss.
+- Protoss Mission 9: Both brown and white start with an extra hatchery. Red Zerg has more sunken 
+  colonies added in the top middle of the map.
+- Protoss Mission 10: Modified terrain near starting mineral clusters in Player's Main base for more 
+  freedom to add hatcheries near the mineral clusters for maximum mining. Also added a few starting 
+  units for Brown Terran and Yellow Protoss.
