@@ -100,3 +100,20 @@ Version 1.0 BETA
 - Changed Geyser from bring controlled by Player 1 to Player 12 (Neutral) in Mission 1.
 - Changed AI script as to hopefully prevent ally AI in Mission 5 from building a command center in your base.
 - Changed AI script execution location from your base to their base in Mission 6 (hopefully prevents AI drones from mining at your base).
+7/17/2021 - v1.02
+- Added Resources to Player 3 AI in Terran Mission 6. This should allow Duke's forces to build units now.
+7/20/2021 - v1.10
+- Changed starting structure (Command Center / Nexus / Hatchery) location in various missions to be located closer to minerals and gas geysers for more efficient mining.
+- Added Drones, Probes, and SCVs in various missions as well.
+- Added or deleted very minor cluster of units in various missions.
+- Terran Mission 9: Zerg starting upgrades are now 2/2 down from 3/3. Their initial attack wave should also be slightly smaller.
+- Terran Mission 10: Terran AI now has less starting production facilities. Their defensive structures are also now located inside their base (versus outside of it).
+- Zerg Mission 6: Reduced difficulty of 1 of the Zerg AI from Insane to Difficult.
+- Zerg Mission 8: Increased Red Zerg AI's starting Tech levels. Decreased Purple Zerg AI's starting Hatchery count. Removed a AI town script for Purple Zerg.
+- Zerg Mission 9 and 10: Reduced difficulty of 1 of the Zerg AIs from Insane to Difficult.
+- Protoss Mission 2 and 3: Player now starts with 1 more hatchery.
+- Protoss Mission 4: Expanded low ground location south of starting Base. It is now also a natural that can be expanded to.
+- Protoss Mission 5: Tassadar's stats have been increased making him harder to kill and dealing slightly more damage.
+- Protoss Mission 8: Added an expansion east of Main mining base on the low ground.
+- Protoss Mission 9: Both brown and white start with an extra hatchery. Red Zerg has more sunken colonies added in the top middle of the map.
+- Protoss Mission 10: Modified terrain near starting mineral clusters in Player's Main base for more freedom to add hatcheries near the mineral clusters for maximum mining. Also added a few starting units for Brown Terran and Yellow Protoss.
