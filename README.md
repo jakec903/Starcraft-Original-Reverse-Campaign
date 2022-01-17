@@ -134,3 +134,8 @@ Version 1.0 BETA
 - Protoss Mission 10: Modified terrain near starting mineral clusters in Player's Main base for more 
   freedom to add hatcheries near the mineral clusters for maximum mining. Also added a few starting 
   units for Brown Terran and Yellow Protoss.
+
+1/16/22
+- Broodwar Reverse Campaign Added (Protoss, Terran, and Zerg)
+- Broodwar Protoss Missions 2, 3, 6, and 7 have changes from initial release on StarEdit.  Custom AI waves are changed, color of AIs have changed, and the AI scripts have changed, with most of the Insane AI scripts changing to either Easy, Difficult, or Custom.
+- Note: Protoss Missions 4 & 5 have EUD triggers (which may disable saving).  No Missions in Broodwar Terran and Broodwar Zerg have EUD triggers and instead result in spawning "clones" which are just killable (this allows saving in those games and makes it easier to work around).
